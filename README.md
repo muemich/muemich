@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muemich
-- 🚀 I'm on a mission to reduce IT related greenhouse gas emissions while adopting new technology and practises
 - 👀 I’m interested in all the things Cloud Native, Platform Engineering, AI Platforms and Green Software Development
-- 💞️ I’m looking to collaborate on whatever you think I might be able to add avlue
+- 🚀 I'm on a mission to reduce IT related greenhouse gas emissions while adopting new technology and practises
+- 💞️ I’m looking to collaborate on all the things CLoud, AI and Green IT
 - 📫 How to reach me muemich.bsky.social
 
 <!---
